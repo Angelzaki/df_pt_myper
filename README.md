@@ -564,6 +564,15 @@ Desarrollado como prueba técnica para **MYPER Software**
 
 ---
 
+## 🔗 Enlaces del Proyecto
+
+- **Repositorio GitHub**: [https://github.com/Angelzaki/df_pt_myper](https://github.com/Angelzaki/df_pt_myper)
+- **Video Demostración (Loom)**: Enlace enviado por correo electrónico
+
+> **Nota**: El video de demostración incluye una explicación completa de las funcionalidades implementadas, la arquitectura del sistema y las decisiones técnicas tomadas durante el desarrollo.
+
+---
+
 ## Licencia
 
 Este proyecto fue desarrollado con fines educativos y de evaluación técnica.
